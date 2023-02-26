@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Desserts_List>
+<Desserts>
+    <Name>Cassava Cake</Name>
+    <Price>₱120</Price>
+    <Description>
+    Cassava cake is a rich, chewy, and cheesy treat that’s impossible to resist. 
+    </Description>
+    <Calories>242.7</Calories>
+    <Ingredients>grated cassava, coconut milk, evaporated milk, eggs, butter, cheddar cheese, condensed milk, granulated white sugar</Ingredients> 
+    <Origin>Philippines</Origin>
+</Desserts>
+<Desserts>
+    <name>Leche Flan</name>
+    <price>₱100-₱200</price>
+    <description>
+    The Filipino version of caramel pudding, leche flan is a traditional dessert served during the holiday season.
+    </description>
+    <calories>369</calories>
+    <Ingredients>Condensed Milk, Eggs, Sugar </Ingredients>
+    <Origin>Philippines</Origin>
+</Desserts>
+<Desserts>
+    <name>Biko (Sticky Rice Cake)</name>
+    <price>₱150-₱250</price>
+    <description>
+    Glutinous, or sticky rice, is mixed with a brown rice coconut syrup and baked to perfection.
+    </description>
+    <calories>250</calories>
+    <Ingredients>Coconur Milk, Malagkit(sticky rice), Eggs, Sugar </Ingredients>
+    <Origin>Philippines</Origin>
+</Desserts>
+<Desserts>
+    <name>Ginataang Halo-Halo </name>
+    <price>₱20-₱50</price>
+    <description>
+    Sweet, thick, and hearty, this soup is sure to turn any frown upside down. It’s Filipino comfort food at its best.
+    </description>
+    <calories>447</calories>
+    <Ingredients>sweet potatoes, roots, plantains, jackfruit, tapioca Pearls, glutinous rice balls, white sugar, Coconut Milk </Ingredients>
+    <Origin>Philippines</Origin>
+</Desserts>
+<Desserts>
+    <name>Buko salad</name>
+    <price>₱20-₱100</price>
+    <description>
+    Sweet and tender coconut stars this sweet and creamy dessert. 
+    </description>
+    <calories>287</calories>
+    <Ingredients>fresh coconut shredded, fruit cocktail, nata de coco, all-purpose cream, condensedmilk </Ingredients>
+    <Origin>Philippines</Origin>
+</Desserts>
+</Desserts_List>
